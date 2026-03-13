@@ -15,7 +15,7 @@ sudo apt upgrade
 
 python -m venv --system-site-packages venv
 
-source yolo/bin/activate
+source venv/bin/activate
 
 pip install ultralytics ncnn /if stuck try again until finishes
 
